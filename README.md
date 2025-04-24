@@ -16,7 +16,7 @@ History Explorer is an educational tool focused on teaching Indian history inter
 - React with TypeScript
 - TailwindCSS for styling
 - React Router for navigation
-- Mock data with simulated AI responses (ready for real AI integration)
+
 
 ## Getting Started
 
